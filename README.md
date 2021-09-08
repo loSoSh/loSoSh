@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @loSoSh, a sound engineer and a code apprentice.
+- 👋 Hi, I’m @loSoSh, a sound engineer and a code apprentice @SoundShape
 - 👀 I’m interested in coding, video games and sound.
 - 🌱 I’m currently learning javascript, HTML, etc..
 - 💞️ I’m looking to collaborate on nothing, thanks.
